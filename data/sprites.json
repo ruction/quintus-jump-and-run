@@ -1,0 +1,4 @@
+{
+	"enemy":{"sx":0,"sy":0,"cols":1,"tilew":25,"tileh":24,"frames":1},
+	"tower":{"sx":0,"sy":24,"cols":1,"tilew":25,"tileh":15,"frames":1}
+}
